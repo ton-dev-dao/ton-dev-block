@@ -27,7 +27,7 @@ sha2 = '0.10'
 smallvec = { features = [ 'const_new', 'union', 'write' ], version = '1.10' }
 thiserror = '1.0'
 x25519-dalek = '2.0'
-lockfree = { git = 'https://github.com/everx-labs/lockfree.git' }
+lockfree = { git = 'https://github.com/ton-dev-dao/lockfree.git' }
 
 [dev-dependencies]
 criterion = '0.4'
